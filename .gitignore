@@ -1,3 +1,25 @@
-.__pycache__
-__pycache__
+/.idea/
+.DS_store
+/venv
 __pycache__/
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# mkdocs documentation
+/site
+
+.pytype/
+cython_debug/
+.pytest_cache
